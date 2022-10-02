@@ -36,10 +36,24 @@ pluralizelisttitles = false
 #    parent     = "menu.home"
 
 [[menu.main]]
-    name       = "Features"
+    name       = "About"
     identifier = "menu.features"
-    url        = "/img/template-easy-customize.png"
-    weight     = 3
+    #url        = "/img/template-easy-customize.png"
+    url        = ""
+    weight     = 2
+
+[[menu.main]]
+    name       = "About Us"
+    url        = ""
+    weight     = 1
+    parent     = "menu.features"
+    
+[[menu.main]]
+    name       = "Formula Student"
+    url        = ""
+    weight     = 2
+    parent     = "menu.features"
+
 
 [[menu.main]]
     name       = "Shortcodes"

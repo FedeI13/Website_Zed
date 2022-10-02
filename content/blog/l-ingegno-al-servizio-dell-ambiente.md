@@ -1,6 +1,6 @@
 +++
 authors = ["Mauro Cannistrà"]
-banner = ""
+banner = "img/2_2.png"
 categories = ["electric mobility"]
 date = 2015-10-02T19:49:20Z
 tags = ["ecologia", "motore elettrico"]

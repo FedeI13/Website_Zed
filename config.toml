@@ -44,7 +44,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Su di noi"
-    url        = ""
+    url        = "/about-us/"
     weight     = 1
     parent     = "menu.features"
     

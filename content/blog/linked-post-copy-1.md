@@ -1,6 +1,6 @@
 +++
 authors = ["Mauro Cannistrà"]
-banner = "img/banners/banner-4.jpg"
+banner = "https://www.zancle-edrive.it/articoli/images/2_2.png"
 categories = []
 date = 2021-03-31T07:00:20Z
 tags = ["elettrico", "storia", "formusa student"]

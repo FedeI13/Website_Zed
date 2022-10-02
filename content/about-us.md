@@ -1,44 +1,29 @@
 +++
-description = "Frequently asked questions"
-draft = true
+description = "La nostra squadra"
 keywords = ["FAQ", "How do I", "questions", "what if"]
 title = "About Us"
 
 +++
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+**Zancle E-Drive** **(ZED)** è un team formato da studenti iscritti all’Università degli Studi di Messina, è attualmente l'unico della Sicilia nato con l’obiettivo di partecipare alla più famosa competizione internazionale ingegneristica e tecnologica del mondo universitario, la **Formula Student.**
 
-## 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?
+***
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+Queste manifestazioni sono organizzate ogni anno con la partecipazione di diversi team provenienti da più nazioni in rappresentanza di altrettanti atenei universitari che si sfideranno nella progettazione di una **vettura monoposto da competizione** a combustione interna e a trazione elettrica destinata ad una eventuale commercializzazione.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+#### In che categoria parteciperemo?
 
-## 2. WHAT ARE THE POSTAL RATES?
+Zancle E-Drive parteciperà nella classe 1D sviluppando una monoposto **full electric** **a guida autonoma**. Le vetture dovranno quindi superare le varie prove statiche, dinamiche e, in questo caso, di Trackdrive in modalità **driverless**. Le squadre dovranno confrontare le competenze in ambito ingegneristico (ambito meccanico, elettronico e informatico), organizzazione, rispetto delle tempistiche, impegno ed economicità del progetto.
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+***
 
-## 3. DO YOU SEND OVERSEAS?
+#### Da quanti membri è composto il team?
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+Il team è composto da 50+ studenti provenienti da 10+ corsi di laurea.
 
-## 4. WHY ARE YOU MORE EXPENSIVE THAN OTHERS?
+***
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+#### Quando è nato il team?
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+Il team è nato a gennaio 2020, in un anno difficile per tutti. Nonostante i vari impedimenti ha realizzato e stampato un prototipo in scala (con il nome di CyberZED) per poter sperimentare le varie tecnologie da implementare sul modello finale che verrà presentato nella competizione.
 
-## 5. ANOTHER IMPORTANT QUESTION
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
-
----
-
-> In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you.
+***

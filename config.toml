@@ -40,10 +40,10 @@ pluralizelisttitles = false
     identifier = "menu.features"
     #url        = "/img/template-easy-customize.png"
     url        = ""
-    weight     = 3
+    weight     = 2
 
 [[menu.main]]
-    name       = "About Us"
+    name       = "Su di noi"
     url        = ""
     weight     = 1
     parent     = "menu.features"

@@ -1,6 +1,5 @@
 +++
 description = "La nostra squadra"
-draft = true
 keywords = ["Formula SAE", "Competizione", "Formula Student"]
 title = "Formula Student"
 

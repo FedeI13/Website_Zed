@@ -1,7 +1,7 @@
 +++
 authors = ["Mauro Cannistrà"]
 banner = "img/2_2.png"
-categories = []
+categories = ["electric mobility"]
 date = 2021-03-31T07:00:20Z
 tags = ["elettrico", "storia", "formusa student"]
 title = "THE QUIETEST STARTING LINE"

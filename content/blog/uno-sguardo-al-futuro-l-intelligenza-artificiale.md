@@ -1,9 +1,8 @@
 +++
 authors = ["Giuseppe Mantineo"]
-banner = ""
+banner = "img/4_cover.png"
 categories = ["IA"]
 date = 2021-05-12T20:48:20Z
-draft = true
 tags = ["programming", "IA", "machine learning", "autonomous guide"]
 title = "Uno sguardo al futuro l intelligenza artificiale"
 

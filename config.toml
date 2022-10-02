@@ -50,7 +50,7 @@ pluralizelisttitles = false
     
 [[menu.main]]
     name       = "Formula Student"
-    url        = ""
+    url        = "/formula-student/"
     weight     = 2
     parent     = "menu.features"
 

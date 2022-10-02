@@ -1,20 +1,35 @@
 +++
-authors = ["John Doe", "Jane Doe"]
+authors = ["Mauro Cannistrà"]
 banner = "img/banners/banner-4.jpg"
-categories = ["programming"]
+categories = []
 date = 2015-10-02T19:49:20Z
-draft = true
-tags = ["golang", "programming", "theme", "hugo"]
+tags = ["motore elettrico", "ecologia"]
 title = "L'ingegno al servizio dell'ambiente"
 
 +++
-I'm a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
+Il mondo dell’auto elettrica è una tendenza in crescita con sempre più offerte e tecnologie in rapida evoluzione. I bassi consumi, le altissime prestazioni e la minima quantità di inquinamento fanno dell’auto elettrica l’ancora di salvataggio del mercato automobilistico, salvaguardando al contempo l’ambiente. A far da padrone nelle vetture elettriche e nella monoposto di ZED è ovviamente il motore, semplice e compatto rispetto ad un motore a benzina o Diesel. **Ma nel particolare come funziona e quale principio fisico c’è dietro il funzionamento del motore elettrico?** ![](https://www.zancle-edrive.it/articoli/images/3_1.jpg) Un motore elettrico è composto principalmente dallo statore e dal rotore che generano due campi magnetici la cui interazione produce la coppia motrice utile a far spostare il veicolo. Il rotore e lo statore sono entrambi alimentati dalla corrente tranne nel caso brushless (senza spazzole), in cui è solo lo statore ad essere alimentato con la corrente. I motori elettrici possono essere Asincroni e Sincroni e possono funzionare sia in corrente alternata (AC) sia in corrente continua (DC). La sostanziale differenza tra motori Asincroni e Sincroni sta nella differente velocità di rotazione del campo magnetico e quindi dell’albero motore, nel sincrono la velocità di rotazione è rigidamente vincolata alla frequenza della tensione di alimentazione mentre nel motore asincrono la velocità di rotazione dell’asse è comunque minore della velocità di rotazione del campo magnetico rotante legato alla frequenza della tensione di alimentazione. Lo statore solitamente ha 3 serie di avvolgimenti distribuiti mentre il rotore può essere costituito da avvolgimenti distribuiti oppure da magneti permanenti (nel caso dei motori brushless). Un’altra parte fondamentale del motore elettrico è il traferro che serve a consentire la rotazione libera e indipendente del rotore, non è altro che un sottile spessore di aria che funge anche da dielettrico **Nel mondo automobilistico quale tipologia di motore è più usato?** ![](https://www.zancle-edrive.it/articoli/images/3_2.jpg) Sulla maggior parte delle auto elettriche vengono utilizzati motori elettrici sincroni a magneti permanenti (brushless) perché devono lavorare con carichi variabili a diverse velocità e consumano meno corrente. Un caso a parte è la casa automobilistica Tesla Motors che sulle sue auto monta motori asincroni brushless. ![](https://www.zancle-edrive.it/articoli/images/3_3.jpg) Non solo la pioniera Tesla, ma anche marchi come Jaguar, Mercedes, Smart e Peugeot, si stanno muovendo verso le e-car e stanno investendo moltissimo su modelli ad energia elettrica. Il 2020 segnerà infatti un anno di passaggio netto per i listini di molte Case. Al di là della parte motoristica bisogna sicuramente menzionare l’elettronica di potenza. **Quali sono i dispositivi che gestiscono il motore elettrico?** Tra i vari dispositivi vi sono gli inverter, i quali ricevendo la corrente (Dc) dalla batteria dell’auto mettono in comunicazione il segnale del pedale dell’acceleratore con la posizione del rotore rispetto allo statore per dare un orientamento al campo magnetico, l’inverter regola frequenza e intensità della corrente da inviare allo statore. Ampliando il discorso sulla fase di decelerazione (fase di recupero), è presente un dispositivo definito raddrizzatore che converte la corrente alternata prodotta dal motore in corrente continua per ricaricare la batteria agli ioni di litio. Infine **quali sono i vantaggi e gli svantaggi nell’usare un veicolo elettrico?** Tra i vantaggi annoveriamo:
 
-    menu = "main"
+* Minori costi di manutenzione (data la sua semplicità costruttiva e la sua affidabilità)
+* Minori costi sul “pieno” (il costo della ricarica in Italia oscilla fra 0,4 e 0,5 euro al kWh)
+* Ridotto inquinamento acustico
+* Vantaggi amministrativi (risparmio su varie tasse)
+* Ridotte emissioni di CO2 nel contesto urbano
 
+ Tra gli svantaggi abbiamo: 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim. Ut ante turpis, tristique vitae sagittis quis, sagittis nec diam. Fusce pulvinar cursus porta. Vivamus maximus leo dolor, ut pellentesque lorem fringilla nec. Mauris faucibus turpis posuere sapien euismod, a ullamcorper mi maximus.
+* Costo elevato
+* Autonomia bassa
+* Pochi rifornimenti che abbiano la ricarica “veloce”
+* Smaltimento delle batterie esauste
+* Tempi di rifornimento lunghi (la maggior parte delle colonnine di ricarica pubblica installate da Enel sul territorio italiano hanno una potenza disponibile di 11 o 22 kW. Difficilmente, comunque, si affronteranno tempi lunghi per la ricarica di un’auto elettrica perché la maggior parte delle vetture può rigenerare la batteria sino all’80% anche in soli 30 minuti)
 
-Morbi varius ex vel justo dictum placerat. Sed ac arcu pretium, varius elit eget, gravida purus. Fusce sit amet massa mollis eros tincidunt sollicitudin. Suspendisse iaculis cursus mauris ut sagittis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas elit ligula, molestie quis magna eu, semper posuere lorem. Mauris a justo pharetra, congue ex eget, tincidunt massa. Maecenas sit amet neque lorem.
+ Il futuro delle auto è elettrico e i veicoli elettrici potrebbero salvare il pianeta. Non possiamo negare poi che un’auto elettrica non inquini durante il suo uso, ma in realtà si dovrebbe tenere conto di quello che viene definito inquinamento totale del veicolo che consta di voci come: 
 
-Curabitur at elementum quam. Curabitur tristique elit non sapien aliquam vulputate. Vivamus in odio tincidunt, tempor sem quis, tincidunt lacus. Mauris pulvinar nunc sed tempus dictum. Nam vel arcu quis mi fermentum ullamcorper non ac lacus. Donec aliquet vitae ante at imperdiet. Aenean scelerisque venenatis urna, eget elementum risus convallis ac. Nullam gravida arcu lacus, non consectetur augue pretium non. Duis dignissim eros id urna pretium congue. Nullam eu magna in sem sollicitudin tempor. Pellentesque vel convallis ligula. Quisque semper, turpis a rhoncus efficitur, magna nibh iaculis elit, eget tempor dolor eros ut mi. Maecenas eu placerat lacus. Praesent congue pretium nulla, sed suscipit metus rutrum vel.
+* Fonte che alimenta le batterie e che fornisce energia al motore
+* Emissioni generate dallo smaltimento degli accumulatori a fine vita
+
+ Non risulta quindi scontato eleggere un vincente tra auto elettriche e auto termiche. Il vecchio motore a combustione interna sta incassando vari colpi per via del trend sempre in crescita dei veicoli elettrici, che forse di green potrebbero avere ben poco. 
+
+  
+  
+ -Mauro Cannistrà

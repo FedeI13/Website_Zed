@@ -1,30 +1,20 @@
 +++
 description = "La nostra squadra"
 draft = true
-keywords = ["FAQ", "How do I", "questions", "what if"]
+keywords = ["Formula SAE", "Competizione", "Formula Student"]
 title = "Formula Student"
 
 +++
-**Zancle E-Drive** **(ZED)** è un team formato da studenti iscritti all’Università degli Studi di Messina, è attualmente l'unico della Sicilia nato con l’obiettivo di partecipare alla più famosa competizione internazionale ingegneristica e tecnologica del mondo universitario, la **Formula Student.**
+La Formula SAE è una competizione studentesca che coinvolge i dipartimenti di ingegneria delle Università di tutto il mondo ed è organizzato da SAE International. Il concetto sul quale si basa è quello di creare una situazione in cui degli studenti universitari debbano sviluppare una monoposto in stile Formula che verrà valutata attraverso delle prove al fine di promuovere la sicurezza in pista e le skill di problem solving dei vari Team studenteschi partecipanti alla competizione.
 
-![Il team alla sua fondazione](https://raw.githubusercontent.com/FedeI13/Website_Zed/main/static/img/old_team.jpg)
+#### LA COMPETIZIONE
 
-Queste manifestazioni sono organizzate ogni anno con la partecipazione di diversi team provenienti da più nazioni in rappresentanza di altrettanti atenei universitari che si sfideranno nella progettazione di una **vettura monoposto da competizione** a combustione interna e a trazione elettrica destinata ad una eventuale commercializzazione.
+Gli eventi al quale il prototipo deve partecipare si suddividono in eventi Statici e Dinamici al termine dei quali verranno assegnati dei punteggi.
 
-#### In che categoria parteciperemo?
+Gli eventi Statici prevedono tre diverse prove in cui si valutano le competenze in ambito economico, organizzazione, rispetto delle tempistiche, impegno ed economicità del progetto.
 
-Zancle E-Drive parteciperà nella classe 1D sviluppando una monoposto **full electric** **a guida autonoma**. Le vetture dovranno quindi superare le varie prove statiche, dinamiche e, in questo caso, di Trackdrive in modalità **driverless**. Le squadre dovranno confrontare le competenze in ambito ingegneristico (ambito meccanico, elettronico e informatico), organizzazione, rispetto delle tempistiche, impegno ed economicità del progetto.
-
-***
-
-#### Da quanti membri è composto il team?
-
-Il team è composto da 50+ studenti provenienti da 10+ corsi di laurea.
+Gli eventi Dinamici sono composti da quattro prove che valutano le performance della monoposto e dell’intelligenza artificiale.
 
 ***
 
-#### Quando è nato il team?
-
-Il team è nato a gennaio 2020, in un anno difficile per tutti. Nonostante i vari impedimenti ha realizzato e stampato un prototipo in scala (con il nome di CyberZED) per poter sperimentare le varie tecnologie da implementare sul modello finale che verrà presentato nella competizione.
-
-***
+Caricare foto

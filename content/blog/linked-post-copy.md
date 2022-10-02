@@ -3,7 +3,6 @@ authors = ["Mauro Cannistrà"]
 banner = "img/formulasae-italy2019.jpg"
 categories = []
 date = 2021-03-16T08:00:00Z
-draft = true
 tags = ["formula student", "messina", "unime"]
 title = "TUTTI PRONTI SULLA GRIGLIA DI PARTENZA"
 

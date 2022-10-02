@@ -1,6 +1,6 @@
 +++
 authors = ["Mauro Cannistrà"]
-banner = "img/banners/banner-4.jpg"
+banner = "https://www.zancle-edrive.it/articoli/images/3_1.jpg"
 categories = ["electric mobility"]
 date = 2015-10-02T19:49:20Z
 tags = ["ecologia", "motore elettrico"]

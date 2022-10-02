@@ -1,5 +1,5 @@
 +++
-banner = "/uploads/formulasae-italy2019.jpg"
+banner = "static/img/formulasae-italy2019.jpg"
 categories = ["blog"]
 tags = ["team ", "formula student"]
 title = "TUTTI PRONTI SULLA GRIGLIA DI PARTENZA "

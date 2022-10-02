@@ -1,9 +1,9 @@
 +++
 authors = ["Mauro Cannistrà"]
 banner = "img/banners/banner-4.jpg"
-categories = []
+categories = ["electric mobility"]
 date = 2015-10-02T19:49:20Z
-tags = ["motore elettrico", "ecologia"]
+tags = ["ecologia", "motore elettrico"]
 title = "L'ingegno al servizio dell'ambiente"
 
 +++

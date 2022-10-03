@@ -17,15 +17,15 @@ Se soddisfi tutti i requisiti compila il [form](/contact/) per contattarci!
 
 ### 2. Posso partecipare anche se non ho alcuna esperienza?
 
-No
+Certo! La nostra mission è creare giovani figure professionali con skills tecniche e manageriali attente all'innovazione e alla sostenibilità.
 
 ### 3. Posso partecipare solo se sono uno studente di ingegneria?
 
-Si.
+No. Progettare una monoposto non richiede solo conoscenze tecniche ma anche manageriali e gestionali.
 
 ### 4. Cosa è la Formula SAE?
 
-Cerca su Goole
+La Formula SAE è una competizione studentesca che coinvolge Università di tutto il mondo. Per saperne di più vai nella [pagina](/formula-student/) dedicata alla competizione
 
 ### 5. Vorrei sponsorizzare il team. Come posso fare?
 

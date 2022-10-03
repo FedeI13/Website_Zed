@@ -1,6 +1,6 @@
 +++
 authors = ["Giuseppe Mantineo"]
-banner = "img/4_cover.png"
+banner = "img/4.png"
 categories = ["IA"]
 date = 2021-05-12T20:48:20Z
 tags = ["programming", "IA", "machine learning", "autonomous guide"]

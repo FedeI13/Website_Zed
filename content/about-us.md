@@ -11,6 +11,11 @@ title = "About Us"
 {{< figure align="center" src="" title="Il team alla sua fondazione" width=100% class="center" >}}
 {{< figure align="center" src="" title="Il team alla sua fondazione" width=100% class="center" >}}
 {{< figure align="center" src="" title="Il team alla sua fondazione" width=100% class="center" >}}
+
+```markdown
+ {{</* figure src="" caption="Il team alla sua fondazione" */>}}
+ ```
+
 Queste manifestazioni sono organizzate ogni anno con la partecipazione di diversi team provenienti da più nazioni in rappresentanza di altrettanti atenei universitari che si sfideranno nella progettazione di una **vettura monoposto da competizione** a combustione interna e a trazione elettrica destinata ad una eventuale commercializzazione.
 
 #### In che categoria parteciperemo?

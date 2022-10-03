@@ -14,7 +14,7 @@ Per poter far parte del team è necessario:
 * Essere appassionato di motorsport
 * Essere disposto a lavorare in team
 
-Se soddisfi tutti i requisiti compila il ![form]("/contact/") per contattarci!
+Se soddisfi tutti i requisiti compila il [form](/contact/) per contattarci!
 
 ## 2. Vorrei sponsorizzare il team. Come posso fare?
 

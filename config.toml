@@ -214,7 +214,7 @@ pluralizelisttitles = false
     enable = true
     text = """<p class="hidden-sm hidden-xs">Contattaci al +39 348 4242368 or zancleedrive@gmail.com.</p>
       <p class="hidden-md hidden-lg"><a href="tel:+39 348 4242368" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
-      <a href="zancleedrive@gmail.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
+      <a href="mailto:zancleedrive@gmail.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
       """
 

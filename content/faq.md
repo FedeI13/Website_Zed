@@ -25,12 +25,12 @@ No. Progettare una monoposto non richiede solo conoscenze tecniche ma anche mana
 
 ### 4. Cosa è la Formula SAE?
 
-La Formula SAE è una competizione studentesca che coinvolge Università di tutto il mondo. Per saperne di più vai nella [pagina](/formula-student/) dedicata alla competizione
+La Formula SAE è una competizione studentesca che coinvolge Università di tutto il mondo. Per saperne di più vai nella [pagina](/formula-student/) dedicata alla competizione.
 
 ### 5. Vorrei sponsorizzare il team. Come posso fare?
 
-IT 99 C 12345 67890 123456789012
+All'interno della pagina "[Support Us](/SupportUs/)" trovi tutte le informazioni necessarie per sponsorizzarci!
 
 ***
 
-> In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you.
+> Nel caso in cui non hai trovato la risposta per la tua domanda non esitare a contattarci.

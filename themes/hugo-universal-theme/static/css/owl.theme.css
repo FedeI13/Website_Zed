@@ -2,12 +2,6 @@
 * 	Owl Carousel Owl Demo Theme 
 *	v1.3.2
 */
-.center {
-  margin: auto;
-  width: 10%;
-  border: 3px solid #73AD21;
-  padding: 10px;
-}
 .owl-theme .owl-controls{
 	margin-top: 10px;
 	text-align: center;

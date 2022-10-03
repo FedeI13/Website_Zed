@@ -26,4 +26,4 @@ Il team è composto da 50+ studenti provenienti da 10+ corsi di laurea.
 
 Il team è nato a gennaio 2020, in un anno difficile per tutti. Nonostante i vari impedimenti ha realizzato e stampato un prototipo in scala (con il nome di CyberZED) per poter sperimentare le varie tecnologie da implementare sul modello finale che verrà presentato nella competizione.
 
-***
+{{< figure src="/img/dsc_0630.JPG" width=100% class="center" >}}

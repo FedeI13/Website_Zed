@@ -11,8 +11,3 @@
 .box-simple {
   min-height: 230px;
 }
-
-img.center {
-    display: block;
-    margin: 0 auto;
-}

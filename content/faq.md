@@ -8,7 +8,13 @@ title = "FAQ"
 
 ## 1. Vorrei far parte del team. Quali sono i requisiti?
 
-Per poter far parte del team è necessario essere iscritti all'Università degli studi di Messina
+Per poter far parte del team è necessario:
+
+* Essere iscritto all'Università degli studi di Messina
+* Essere appassionato di motorsport
+* Essere disposto a lavorare in team
+
+Se soddisfi tutti i requisiti compila il [form]() per contattarci!
 
 ## 2. Vorrei sponsorizzare il team. Come posso fare?
 

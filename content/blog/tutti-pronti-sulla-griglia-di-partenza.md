@@ -1,6 +1,6 @@
 +++
 authors = ["Mauro Cannistrà"]
-banner = "img/formulasae-italy2019.jpg"
+banner = "img/1.png"
 categories = ["Team"]
 date = 2021-03-16T08:00:00Z
 tags = ["formula student", "messina", "unime"]

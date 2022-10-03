@@ -11,3 +11,5 @@ fields:
 - type: list
   name: keywords
   label: keywords
+pages:
+- content/il-team-2022-2023.md

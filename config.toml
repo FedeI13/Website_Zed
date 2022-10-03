@@ -121,7 +121,7 @@ pluralizelisttitles = false
 [[menu.topbar]]
     weight = 5
     name = "Email"
-    url = "zancleedrive@gmail.com"
+    url = "mailto:zancleedrive@gmail.com"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]

@@ -8,8 +8,9 @@ title = "About Us"
 
 {{< figure align="center" src="/img/old_team.jpg" title="Il team alla sua fondazione" width=100% class="center" >}}
 
-<p class="center">Lorem ipsum dolor sit amet, graecis denique ei vel, at duo primis mandamus. Et legere ocurreret pri, animal tacimates complectitur ad cum. Cu eum inermis inimicus efficiendi. Labore officiis his ex, soluta officiis concludaturque ei qui, vide sensibus vim ad.</p>
-
+{{< figure align="center" src="" title="Il team alla sua fondazione" width=100% class="center" >}}
+{{< figure align="center" src="" title="Il team alla sua fondazione" width=100% class="center" >}}
+{{< figure align="center" src="" title="Il team alla sua fondazione" width=100% class="center" >}}
 Queste manifestazioni sono organizzate ogni anno con la partecipazione di diversi team provenienti da più nazioni in rappresentanza di altrettanti atenei universitari che si sfideranno nella progettazione di una **vettura monoposto da competizione** a combustione interna e a trazione elettrica destinata ad una eventuale commercializzazione.
 
 #### In che categoria parteciperemo?

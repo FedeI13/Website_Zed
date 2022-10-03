@@ -4,7 +4,7 @@ keywords = ["FAQ", "How do I", "questions", "what if"]
 title = "About Us"
 
 +++
-**Zancle E-Drive** **(ZED)** è un team formato da studenti iscritti all’Università degli Studi di Messina, è attualmente l'unico della Sicilia nato con l’obiettivo di partecipare alla più famosa competizione internazionale ingegneristica e tecnologica del mondo universitario, la **Formula Student.**
+**Zancle E-Drive** **(ZED)** è un team formato da studenti iscritti all’Università degli Studi di Messina, è attualmente l'unico della Sicilia nato con l’obiettivo di partecipare alla più famosa competizione internazionale ingegneristica e tecnologica del mondo universitario, la **Formula SAE.**
 
 {{< figure src="/img/old_team.jpg" title="Il team alla sua fondazione" width=100% class="center" >}}
 
@@ -27,3 +27,7 @@ Il team è composto da 50+ studenti provenienti da 10+ corsi di laurea.
 Il team è nato a gennaio 2020, in un anno difficile per tutti. Nonostante i vari impedimenti ha realizzato e stampato un prototipo in scala (con il nome di CyberZED) per poter sperimentare le varie tecnologie da implementare sul modello finale che verrà presentato nella competizione.
 
 {{< figure src="/img/dsc_0630.JPG" title="CyberZED" width=100% class="center" >}}
+
+#### Da dove nasce il nome Zancle E-Drive?
+
+Il nome attinge alle origini greche della nostra città, un omaggio al passato della nostra citta da coloro i quali ne rappresentano il futuro

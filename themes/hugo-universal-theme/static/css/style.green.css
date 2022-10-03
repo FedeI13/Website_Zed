@@ -9,7 +9,12 @@
   --link-hover-bg: #519461;
   --navbar-focus: #acd2b5;
 }
-
+.center {
+  margin: auto;
+  width: 10%;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
 .clearfix:before,
 .clearfix:after,
 .navbar:before,

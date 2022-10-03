@@ -8,18 +8,12 @@ title = "About Us"
 
 {{< figure align="center" src="/img/old_team.jpg" title="Il team alla sua fondazione" width=100% class="center" >}}
 
-// cols="2" implements adds bootstrap classes="col col-6"
 {{< row cols="2" >}}
   {{ col }}
-    ## Markdownify this! 
-
-    Column 1
+    {{< figure align="center" src="/img/old_team.jpg" title="Il team alla sua fondazione" width=100% class="center" >}}
   {{ /col }}
-  
   {{ col }}
-    **Markdownify this!!** 
-
-    Column 2
+    {{< figure align="center" src="/img/old_team.jpg" title="Il team alla sua fondazione" width=100% class="center" >}}
   {{ /col }}
 {{< /row >}}
 

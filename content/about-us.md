@@ -8,6 +8,7 @@ title = "About Us"
 
 ![Il `team` alla sua fondazione](https://raw.githubusercontent.com/FedeI13/Website_Zed/main/static/img/old_team.jpg)
 
+{{< figure src="/img/old_team.jpg" title="Lighthouse (figure)" >}}
 
 Queste manifestazioni sono organizzate ogni anno con la partecipazione di diversi team provenienti da più nazioni in rappresentanza di altrettanti atenei universitari che si sfideranno nella progettazione di una **vettura monoposto da competizione** a combustione interna e a trazione elettrica destinata ad una eventuale commercializzazione.
 

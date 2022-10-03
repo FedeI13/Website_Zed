@@ -6,13 +6,9 @@ title = "FAQ"
 +++
 # Hai domande su Zancle E-Drive? Noi abbiamo le risposte.
 
-## 1. Vorrei far parte del team. Come posso iscrivermi?
+## 1. Vorrei far parte del team. Quali sono i requisiti?
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+Per poter far parte del team è necessario essere iscritti all'Università degli studi di Messina
 
 ## 2. Vorrei sponsorizzare il team. Come posso fare?
 

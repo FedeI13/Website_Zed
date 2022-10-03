@@ -70,7 +70,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Support us"
     identifier = "menu.allpages"
-    url        = "/"
+    url        = ""
     weight     = 4
 
 [[menu.main]]

@@ -12,7 +12,7 @@ La Formula SAE è una competizione studentesca che coinvolge i dipartimenti di i
 
 La monoposto viene valutata attraverso delle prove suddivise in eventi **Statici** e **Dinamici** al termine dei quali verranno assegnati dei punteggi.
 
-##### Eventi Statici
+#### Eventi Statici
 
 Gli eventi Statici prevedono tre diverse prove in cui si valutano le competenze in ambito economico, organizzazione, rispetto delle tempistiche, impegno ed economicità del progetto e sono:
 
@@ -20,7 +20,7 @@ Gli eventi Statici prevedono tre diverse prove in cui si valutano le competenze 
 * Cost & Manufacturing Event (100 points)
 * Engineering Design Event (150 points)
 
-##### Eventi Dinamici
+#### Eventi Dinamici
 
 Gli eventi Dinamici sono composti da quattro prove che valutano le performance della monoposto e dell’intelligenza artificiale e sono:
 

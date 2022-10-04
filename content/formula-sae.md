@@ -6,6 +6,8 @@ title = "Formula SAE"
 +++
 La Formula SAE è una competizione studentesca che coinvolge i dipartimenti di ingegneria delle Università di tutto il mondo ed è organizzato da SAE International. Il concetto sul quale si basa è quello di creare una situazione in cui degli studenti universitari debbano sviluppare una monoposto in stile Formula che verrà valutata attraverso delle prove al fine di promuovere la sicurezza in pista e le skill di problem solving dei vari Team studenteschi partecipanti alla competizione.
 
+{{< figure src="/img/squadre.png" width=90% class="center" >}}
+
 ### LA COMPETIZIONE
 
 La monoposto viene valutata attraverso delle prove suddivise in eventi **Statici** e **Dinamici** al termine dei quali verranno assegnati dei punteggi.

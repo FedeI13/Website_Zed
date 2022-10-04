@@ -23,10 +23,10 @@ Gli eventi Statici prevedono tre diverse prove in cui si valutano le competenze 
 
 Gli eventi Dinamici sono composti da quattro prove che valutano le performance della monoposto e dell’intelligenza artificiale e sono:
 
-* Acceleration Event (75points)
-* Skid Pad Event (75 points)
-* Autocross Event (100 points)
-* Efficiency Event (100 points)
+* Acceleration (100 points)
+* Skid Pad (100 points)
+* Autocross (150 points)
+* Trackdrive (275 points)
 
 ![](img/fsae.jpg)
 

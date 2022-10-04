@@ -8,6 +8,8 @@ La Formula SAE è una competizione studentesca che coinvolge i dipartimenti di i
 
 ![](img/squadre.png)![](img/logoslide1.png)
 
+fdsfsd
+
 ### LA COMPETIZIONE
 
 La monoposto viene valutata attraverso delle prove suddivise in eventi **Statici** e **Dinamici** al termine dei quali verranno assegnati dei punteggi.

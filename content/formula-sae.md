@@ -8,7 +8,7 @@ La Formula SAE è una competizione studentesca che coinvolge i dipartimenti di i
 
 #### LA COMPETIZIONE
 
-Gli eventi al quale il prototipo deve partecipare si suddividono in eventi Statici e Dinamici al termine dei quali verranno assegnati dei punteggi.
+Gli eventi al quale il prototipo deve partecipare si suddividono in eventi **Statici** e **Dinamici** al termine dei quali verranno assegnati dei punteggi.
 
 Gli eventi Statici prevedono tre diverse prove in cui si valutano le competenze in ambito economico, organizzazione, rispetto delle tempistiche, impegno ed economicità del progetto.
 

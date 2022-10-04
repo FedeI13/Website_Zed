@@ -25,14 +25,5 @@ La competizione si svolge annualmente all'interno dei circuiti più famosi del m
 Zancle E-Drive parteciperà nella classe EV Driverless sviluppando una monoposto **full electric** **a guida autonoma**. Le vetture dovranno quindi superare le varie prove statiche, dinamiche in modalità **driverless**. Le squadre dovranno confrontare le competenze in ambito ingegneristico (ambito meccanico, elettronico e informatico), organizzazione, rispetto delle tempistiche, impegno ed economicità del progetto.
 
 
-{{
-<table style="height: 50px; width: 60%; border-collapse: collapse; margin-left: auto; margin-right: auto;" border="2">
-<tbody>
-<tr style="height: 18px;">
-<td style="width: 33.3333%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 33.3333%; height: 18px; text-align: center;">&nbsp;</td>
-<td style="width: 33.3333%; height: 18px; text-align: center;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
-}}
+{{<table style="height: 50px; width: 60%; border-collapse: collapse; margin-left: auto; margin-right: auto;" border="2">
+<tbody><tr style="height: 18px;"><td style="width: 33.3333%; height: 18px; text-align: center;">&nbsp;</td><td style="width: 33.3333%; height: 18px; text-align: center;">&nbsp;</td><td style="width: 33.3333%; height: 18px; text-align: center;">&nbsp;</td></tr></tbody></table>}}

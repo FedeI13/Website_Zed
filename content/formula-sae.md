@@ -8,12 +8,25 @@ La Formula SAE è una competizione studentesca che coinvolge i dipartimenti di i
 
 #### LA COMPETIZIONE
 
-Gli eventi al quale il prototipo deve partecipare si suddividono in eventi **Statici** e **Dinamici** al termine dei quali verranno assegnati dei punteggi.
+La monoposto viene valutata attraverso delle prove suddivise in eventi **Statici** e **Dinamici** al termine dei quali verranno assegnati dei punteggi.
 
-Gli eventi Statici prevedono tre diverse prove in cui si valutano le competenze in ambito economico, organizzazione, rispetto delle tempistiche, impegno ed economicità del progetto.
+##### Eventi Statici
 
-Gli eventi Dinamici sono composti da quattro prove che valutano le performance della monoposto e dell’intelligenza artificiale.
+Gli eventi Statici prevedono tre diverse prove in cui si valutano le competenze in ambito economico, organizzazione, rispetto delle tempistiche, impegno ed economicità del progetto e sono:
+
+* Business Plan Presentation (75 points)
+* Cost & Manufacturing Event (100 points)
+* Engineering Design Event (150 points)
+
+##### Eventi Dinamici
+
+Gli eventi Dinamici sono composti da quattro prove che valutano le performance della monoposto e dell’intelligenza artificiale e sono:
+
+* Acceleration Event (75points)
+* Skid Pad Event (75 points)
+* Autocross Event (100 points)
+* Efficiency Event (100 points)
+
+[fs19_eventphoto_850x450.jpg?sfvrsn=0](https://imechewebresources.blob.core.windows.net/imeche-web-content-osf/images/default-source/oscar/Formula-Student/fs19_eventphoto_850x450.jpg?sfvrsn=0 "fs19_eventphoto_850x450.jpg?sfvrsn=0")
 
 ***
-
-Caricare foto

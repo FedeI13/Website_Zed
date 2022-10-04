@@ -27,3 +27,15 @@ Il team è nato durante il 2020, nonostante i vari impedimenti ha realizzato e s
 {{< figure src="/img/dsc_0630.JPG" title="CyberZED" width=50% class="center" >}}
 
 Il team è composto da **40+** studenti provenienti da **10+** corsi di laurea e suddiviso in tre macro aree tecniche con a capo di ognuno un Responsabile che ha il compito di dirigere e organizzare il lavoro del gruppo. Ciascuno di questi, a sua volta, è suddiviso in reparti tecnici dove si fa riferimento ai Direttori Tecnici il cui ruolo è unificare e uniformare al meglio il lavoro di tutti, al fine di raggiungere l’obiettivo comune. Parallelamente lavorano i reparti manageriali e marketing, che si occupano del Business Plan Presentation Event, della comunicazione e del Cost and Manufacturing Event. 
+
+{{
+<table style="height: 50px; width: 60%; border-collapse: collapse; margin-left: auto; margin-right: auto;" border="2">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px; text-align: center;">&nbsp;</td>
+<td style="width: 33.3333%; height: 18px; text-align: center;">&nbsp;</td>
+<td style="width: 33.3333%; height: 18px; text-align: center;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+}}

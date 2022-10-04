@@ -4,9 +4,10 @@ keywords = ["Formula SAE", "Competizione", "Formula Student"]
 title = "Formula SAE"
 
 +++
+<p>hello</p>
 La Formula SAE è una competizione studentesca che coinvolge i dipartimenti di ingegneria delle Università di tutto il mondo ed è organizzato da SAE International. Il concetto sul quale si basa è quello di creare una situazione in cui degli studenti universitari debbano sviluppare una monoposto in stile Formula che verrà valutata attraverso delle prove al fine di promuovere la sicurezza in pista e le skill di problem solving dei vari Team studenteschi partecipanti alla competizione.
 
-#### LA COMPETIZIONE
+### LA COMPETIZIONE
 
 La monoposto viene valutata attraverso delle prove suddivise in eventi **Statici** e **Dinamici** al termine dei quali verranno assegnati dei punteggi.
 
@@ -27,6 +28,6 @@ Gli eventi Dinamici sono composti da quattro prove che valutano le performance d
 * Autocross Event (100 points)
 * Efficiency Event (100 points)
 
-[fs19_eventphoto_850x450.jpg?sfvrsn=0](https://imechewebresources.blob.core.windows.net/imeche-web-content-osf/images/default-source/oscar/Formula-Student/fs19_eventphoto_850x450.jpg?sfvrsn=0 "fs19_eventphoto_850x450.jpg?sfvrsn=0")
+![](img/fsae.jpg)
 
 ***

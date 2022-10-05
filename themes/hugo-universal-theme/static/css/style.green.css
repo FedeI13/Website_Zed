@@ -2115,7 +2115,7 @@ fieldset[disabled] .btn-template-primary.active {
   }
 }
 #blog-listing-medium .post .intro {
-  text-align: left;
+  text-align: justify;
 }
 #blog-listing-medium .post .clearfix:before,
 #blog-listing-medium .post .clearfix:after,
@@ -2176,7 +2176,12 @@ fieldset[disabled] .btn-template-primary.active {
   font-weight: 500;
 }
 .box-image-text.blog .intro {
-  text-align: left;
+  text-align: justify;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 10;
+  -webkit-box-orient: vertical;
   margin-bottom: 20px;
 }
 #blog-homepage .post {

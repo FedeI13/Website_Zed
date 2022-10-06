@@ -22,7 +22,7 @@ Certo! La nostra mission è creare giovani figure professionali con skills tecni
 
 ### 3. Posso partecipare solo se sono uno studente di ingegneria?
 
-No. Progettare una monoposto non richiede solo conoscenze tecniche ma anche manageriali e gestionali.
+No. Progettare una monoposto non richiede solo conoscenze tecniche ma anche manageriali e gestionali. Dai un'occhiata agli eventi della [competizione](/formula-sae).
 
 ### 4. Cosa è la Formula SAE?
 

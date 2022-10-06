@@ -10,11 +10,9 @@ Il nome trae ispirazione dalle origini greche della nostra città, un omaggio al
 
 {{< figure src="/img/team2.jpg" title="Il team alla fondazione" width=110% class="center" >}}
 
-Il team, nato durante il 2020, nonostante i vari impedimenti ha realizzato e stampato un prototipo in scala (con il nome di CyberZED) per poter sperimentare e acquisire esperienza utilizzando le varie tecnologie da implementare sulla monoposto che verrà presentata nella competizione.
+Il team, nato durante il 2020, nonostante i vari impedimenti ha realizzato e stampato un prototipo in scala (con il nome di CyberZED) poi ottimizzato con una seconda versione per poter sperimentare e acquisire esperienza utilizzando le varie tecnologie da implementare sulla monoposto che verrà presentata nella competizione.
 
-{{< figure src="/img/dsc_0630.JPG" title="CyberZED" width=70% class="" >}}
-
-Sono state realizzate altre versioni del prototipo, implementando sempre più funzioni e affinando le nostre conoscenze, avvinandoci sempre più al modello da competizione.
+{{< figure src="/img/dsc_0630.JPG" title="CyberZED" width=70% class="center" >}}
 
 {{< figure src="/img/IMG_20221006_102425_618.jpg" title="CyberZED v. 2" width=70% class="center" >}}
 

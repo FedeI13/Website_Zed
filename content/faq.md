@@ -11,6 +11,7 @@ title = "FAQ"
 Per poter far parte del team è necessario:
 
 * Essere iscritto ad un qualsiasi corso di laurea dell'Università degli studi di Messina
+* Buona conoscenza della lingua inglese
 * Voglia di lavorare in team
 
 Se soddisfi tutti i requisiti compila il [form](/contact/) per contattarci!

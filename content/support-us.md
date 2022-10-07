@@ -1,6 +1,5 @@
 +++
 description = "Supportaci"
-draft = true
 keywords = ["FAQ", "How do I", "questions", "what if"]
 title = "Support us"
 

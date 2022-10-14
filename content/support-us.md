@@ -4,7 +4,6 @@ keywords = ["Sponsor"]
 title = "Support us"
 
 +++
-# Sostienici
 
 #### Cosa offriamo?
 

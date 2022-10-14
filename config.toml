@@ -10,6 +10,7 @@ title = "Zancle E-Drive"
 [[menu.main]]
 identifier = "menu.allpages"
 name = "Support us"
+url = "/support-us/"
 weight = 7
 [[menu.main]]
 name = "About us"

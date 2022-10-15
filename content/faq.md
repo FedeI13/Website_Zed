@@ -30,7 +30,7 @@ La Formula SAE è una competizione studentesca che coinvolge Università di tutt
 
 #### 5. Vorrei sponsorizzare il team. Come posso fare?
 
-All'interno della pagina "[Support Us](/SupportUs/)" trovi tutte le informazioni necessarie per sponsorizzarci!
+All'interno della pagina "[Support Us](/support-us/)" trovi tutte le informazioni necessarie per sponsorizzarci!
 
 ***
 

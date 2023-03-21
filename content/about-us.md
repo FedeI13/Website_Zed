@@ -24,4 +24,4 @@ La competizione si svolge annualmente all'interno dei circuiti più famosi del m
 
 #### Il nostro obiettivo
 
-Zancle E-Drive parteciperà nella classe EV Driverless sviluppando una monoposto **full electric** **a guida autonoma**. Le vetture dovranno quindi superare le varie prove statiche, dinamiche in modalità **driverless**. Le squadre dovranno confrontare le competenze in ambito ingegneristico (ambito meccanico, elettronico e informatico), organizzazione, rispetto delle tempistiche, impegno ed economicità del progetto.
+Zancle E-Drive parteciperà nel **2024** alla **Formula SAE Italy** , presso l'autodromo di **Varano de' Melegari** nella classe EV Driverless sviluppando una monoposto **full electric** **a guida autonoma**. Le vetture dovranno quindi superare le varie prove statiche, dinamiche in modalità **driverless**. Le squadre dovranno confrontare le competenze in ambito ingegneristico (ambito meccanico, elettronico e informatico), organizzazione, rispetto delle tempistiche, impegno ed economicità del progetto.
